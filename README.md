@@ -1,1 +1,1 @@
-# NGAI-ML-Project
+# Cancer Cell Detection
